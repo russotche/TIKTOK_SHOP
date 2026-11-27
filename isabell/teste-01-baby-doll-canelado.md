@@ -57,3 +57,16 @@ Proibido nas cenas: cama, poses deitadas, enquadramento das costas ou do bumbum,
 - [ ] Sem preço, sem texto distorcido, sem a palavra "menina"
 - [ ] Falas iguais ao roteiro (nenhuma frase de uso inventada)
 - [ ] Rótulo de IA + #publi + produto vinculado correto
+
+## Comandos para o Google Flow (v3, 27/11/2026)
+Referências (ingredientes): foto oficial da Iza = foto 6 (cacheada, dois coques, regata vermelha) + foto rosa do anúncio (opção "Claro"). Dois clipes de 8s.
+
+Clipe 1 (0–8s):
+```
+Vertical 9:16, handheld smartphone UGC style, natural early-morning light, Brazilian residential street. The woman from the reference image (same face, curly brown hair in two buns, same eyes) stands at her house gate wearing the exact pink ribbed pajama set from the product reference: cropped camisole with thin adjustable straps and short with elastic waistband, wavy lettuce-edge hems, same pink color. She wears flip-flops and holds a paper bakery bag. Medium shot from knees up. She laughs looking to the side as if a neighbor just spoke to her, then looks at camera and starts walking toward it while reading her phone, pleasantly surprised. She speaks Brazilian Portuguese, cheerful and fast: "Ela achou que eu tava indo pra academia. Eu fui ver o que quem comprou tá falando... confortável, ótimo caimento... delícia de usar." No text, no music, no logos.
+```
+
+Clipe 2 (8–16s):
+```
+Vertical 9:16, same woman, same pink ribbed pajama set, same street and morning light, continuous with previous shot. She stops and looks at her reflection in the glass of the gate, adjusts the strap of the cropped top showing the strap adjuster, turns sideways briefly to check the look, amused and incredulous. Then she looks at camera, winks, points down with her finger and walks in through the gate. Medium shot, no close-ups on the body. She speaks Brazilian Portuguese, playful: "Canelado, levinho, alça que regula. Eu não acredito que isso é pijama. Tá no meu carrinho laranja, vizinha." No text, no music, no logos.
+```
