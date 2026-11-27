@@ -16,7 +16,7 @@ Avaliações reais de compradoras verificadas (podem ser citadas como fala de cl
 - "Delícia de usar. Super confortável"
 
 O que NÃO pode:
-- Citar cor específica. Opções de compra: só "Claro" e "Escura" ("cores variadas"). [CONFIRMAR no app quais cores cada opção inclui]
+- Citar cor específica. Opções de compra: só "Claro" e "Escura" ("cores variadas"). Conferido em 27/11/2026: as duas opções exibem a MESMA foto rosa; não há foto da versão escura. Decisão: usar SOMENTE o rosa (foto oficial da opção "Claro") em todas as cenas, sem troca de cores e sem mencionar outras cores.
 - Falar de "babadinho/barra ondulada" (não está na descrição).
 - Preço, desconto, frete, nota de avaliação.
 - A palavra "menina".
@@ -34,7 +34,7 @@ Tom: Iza leve, rindo, extrovertida, falando como quem conta uma fofoca boa. Ritm
 - Legenda: "quando a vizinha pergunta onde comprou 😂 baby doll feminino canelado, tá no carrinho laranja 🧡 #publi"
 
 ## Cenas para o Google Flow (v3)
-Referência fixa: mesma imagem da Iza em todas as cenas (olhos, cabelo cacheado castanho, traços iguais). Conjunto: cor IGUAL a uma das fotos do anúncio (usar a mesma cor em todas as cenas). Formato 9:16, luz natural de manhã, estilo filmado no celular.
+Referência fixa: mesma imagem da Iza em todas as cenas (olhos, cabelo cacheado castanho, traços iguais). Conjunto: SEMPRE rosa, igual à foto oficial da opção "Claro" (mesma cor em todas as cenas). Formato 9:16, luz natural de manhã, estilo filmado no celular.
 
 Cena 1 (0–3s) — Portão
 Rua residencial brasileira de manhã cedo. Iza no portão de casa, de frente pra câmera, plano médio (joelho pra cima), usando o conjunto canelado (cropped de alcinha + short) e chinelo, segurando uma sacola de pão de padaria. Ela ri olhando de lado, como se a vizinha tivesse acabado de falar com ela, e depois olha pra câmera.
